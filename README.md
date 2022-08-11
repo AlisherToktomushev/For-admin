@@ -20,3 +20,7 @@
 ## Монтаж
 Работа панели выглядит так
 ![sign](https://user-images.githubusercontent.com/110449275/184075486-222e6b2e-1a1b-46a8-bdc3-58f9c96a4835.png)
+
+![фв](https://user-images.githubusercontent.com/110449275/184075620-74c5f25b-8fd1-441b-ab96-bdd6c7f096aa.png)
+
+![fasf](https://user-images.githubusercontent.com/110449275/184075633-df200ab5-1874-4e1f-abf3-0b9c185ca4e7.png)
