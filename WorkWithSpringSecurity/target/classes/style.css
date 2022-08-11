@@ -1,0 +1,945 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 15px;
+    line-height: 1.6;
+
+
+}
+.header__logo{
+    position: absolute;
+    width: 79px;
+    height: 79px;
+    left: 245px;
+    top: 10px;
+}
+
+.nav a{
+    color:#150101;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 25px;
+    opacity: 0.7;
+
+}
+.nav{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    position: relative;
+    top: 15px;
+    font-style: normal;
+    line-height: 16px;
+}
+.header_link {
+    display: inline-block;
+}
+.header_link:after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background:#D23166;
+    transition:0.8s;
+}
+.header_link:hover:after {
+    width: 97%;
+    transition:0.8s;
+}
+
+.buy{
+    position: absolute;
+    left: 1500px;
+    top:25px;
+    text-align: center;
+    width: 166px;
+    height: 49px;
+    background:#D23166;
+    border-radius: 5px;
+    padding-top: 11px;
+    font-family: 'Hind Madurai', sans-serif;
+    transition: 0.8s;
+    text-decoration: none;
+    font-size: 16px;
+    color: #fafafa;
+}
+
+.buy:hover{
+    background:white;
+    color: black;
+    box-shadow: inset 0 0 0 1.5px #3a7999;
+}
+
+.text{
+    position: absolute;
+    left: 254px;
+    top: 307px;
+}
+.sweet{
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.1em;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+.feel{
+
+    font-size: 57.33px;
+    line-height: 120.5%;
+    font-family: 'Fredoka One', cursive;
+}
+.pink{
+    color: #D23166;
+    font-size: 57.33px;
+    line-height:120.5%;
+}
+.main p{
+    position: relative;
+    top:35px ;
+    font-family: 'Hind Madurai', sans-serif;
+    font-size: 18px;
+    line-height: 27px;
+    color: #0f0101;
+    opacity: 0.6;
+
+}
+.now{
+    position: relative;
+    top: 50px;
+    font-family: 'Hind Madurai', sans-serif;
+    background:#D23166;
+    border-radius: 5px;
+    padding: 13px 50px ;
+    transition: 0.8s;
+
+}
+.now:hover{
+    background:white;
+    color: black;
+    box-shadow: inset 0 0 0 1.5px #3a7999;
+
+}
+.main a{
+    text-decoration: none;
+    font-size: 16px;
+    color: #fafafa;
+}
+.text{
+    line-height: 80px;
+}
+.creem{
+    position: absolute;
+    width: 597px;
+    height: 597px;
+    left: 889px;
+    top: 126px;
+    transition: 1s;
+}
+.milk{
+    position: absolute;
+    width: 851.86px;
+    height: 548.1px;
+    left: 750.8px;
+    top: 281px;
+    transform: rotate(4.79deg);
+}
+.car{
+    width: 110px;
+}
+.box{
+    margin-left: 25px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 973px;
+    text-align: center
+
+}
+.cars{
+    position: absolute;
+    left: 252px;
+    width: 250px;
+    height: 200px;
+
+}
+.last{
+    position: absolute;
+    left: 541px;
+    top: 25px;
+    width: 250px;
+    height: 200px;
+}
+.back{
+    position: absolute;
+    left: 900px;
+    top: 35px;
+    background: #ffffff;
+    width:250px ;
+    height: 200px;
+
+}
+.faster{
+    position: absolute;
+    left: 1199px;
+    top: 8px;
+    width: 250px;
+    height: 200px;
+}
+
+.fast{
+    width: 110px;
+}
+.Quick{
+    width: 35px;
+}
+.box h1{
+    font-family: 'Hind Madurai', sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+    position: relative;
+    top: 20px;
+}
+.box p{
+    font-family: 'Hind Madurai', sans-serif;
+    font-size: 14px;
+    line-height: 19px;
+    opacity: 0.6;
+}
+.container{
+    position: absolute;
+    width: 349px;
+    height: 98.27px;
+    left: 253px;
+    top: 1403.59px;
+}
+.container h1{
+    font-family: 'Hind Madurai', sans-serif;
+    font-weight: 600;
+    font-size:44.2px ;
+    line-height: 49px;
+}
+.container p{
+    width: 450px;
+    height: 58.16px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    opacity: 0.6;
+}
+.sugar{
+    position: absolute;
+    left: 768px;
+    top: 1190px;
+    width: 655px;
+    height: 656.8px;
+    transition: 1s;
+}
+.see{
+    background-color: #D23166;
+    width: 165px;
+    height:49.13px;
+    position: absolute;
+    left: 253px;
+    top: 1641.16px;
+    border-radius:5px;
+    transition: 0.8s;
+}
+.see:hover{
+    background:white;
+    color: black;
+    box-shadow: inset 0 0 0 1.5px #3a7999;
+}
+.brown a{
+    text-decoration: none;
+    text-align: center;
+    padding-top: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: 500;
+    color: #fafafa;
+}
+.Product h1{
+    position: absolute;
+    left:45% ;
+    top:1944px;
+    font-family: 'Hind Madurai', sans-serif;
+    font-weight: 600;
+    font-size: 44.2px;
+}
+.Product a{
+    color: black;
+    margin: 40px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21px;
+
+}
+.ice{
+    position: absolute;
+    left: 375px;
+    top: 2020px;
+}
+
+.cream{
+    font-family: 'Hind Madurai', sans-serif;
+    border-bottom: 4px solid #D23166;
+
+
+}
+.header__link{
+    font-family: 'Roboto', sans-serif;
+    opacity: 0.6;
+
+}
+.header__link{
+    display: inline-block;
+}
+.header__link:after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background:#D23166;
+    transition:0.8s;
+}
+.header__link:hover:after {
+    width: 95%;
+    transition:0.8s;
+}
+
+.bread{
+    display: flex;
+
+}
+.bread h1{
+    width: 200px;
+    height: 36px;
+    font-family: 'Hind Madurai', sans-serif;
+    font-size: 26px;
+    line-height: 36px;
+    position:absolute ;
+    left: 916px;
+    top: 2200px;
+}
+.bread img{
+    position: absolute;
+    width: 580px;
+    height: 415px;
+    left: 251px;
+    top: 2140px;
+    border-radius: 10px;
+    transition: 1s;
+}
+.bread img:hover{
+    transform:scale(0.8);
+}
+#bon{
+    position: absolute;
+    top: 2247px;
+    left: 916px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    opacity: 0.7;
+}
+.bread h3{
+    position: absolute;
+    top:2342px;
+    left: 916px;
+    width: 71px;
+    font-family: 'Hind Madurai', sans-serif;
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 36px;
+
+}
+.dollar{
+    position: absolute;
+    width: 58px;
+    left: 999px;
+    top: 2348px;
+    font-family: 'Hind Madurai', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    text-decoration-line: line-through;
+    opacity: 0.7;
+}
+.buyss{
+    position: absolute;
+    width: 165px;
+    height: 49px;
+    left: 916px;
+    top: 2385px;
+    font-family: 'Hind Madurai', sans-serif;
+    background:#D23166;
+    border-radius: 5px;
+    padding: 13px 50px ;
+    transition: 0.8s;
+}
+.buyss:hover{
+    background:white;
+    color: black;
+    box-shadow: inset 0 0 0 1.5px #3a7999;
+}
+.cream2 h1{
+    position: absolute;
+    width:300px;
+    height: 36px;
+    left: 523px;
+    top: 2676px;
+    font-family: 'Hind Madurai', sans-serif;
+    font-size: 26px;
+    line-height: 36px;
+    text-align: right;
+
+}
+.pain{
+    position: absolute;
+    width:444px;
+    height: 67px;
+    left: 380px;
+    top: 2723px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: right;
+    opacity:0.7 ;
+}
+.cream2 h3{
+    position: absolute;
+    width: 71px;
+    height: 27px;
+    left: 611px;
+    top: 2818px;
+    font-family: 'Hind Madurai', sans-serif;
+    font-weight: 500;
+    font-size: 26px;
+    text-align: right;
+    line-height: 36px;
+}
+.money{
+    position: absolute;
+    width: 58px;
+    height: 27px;
+    left: 695px;
+    top: 2825px;
+    font-family: 'Hind Madurai', sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: right;
+    text-decoration-line: line-through;
+    opacity: 0.7;
+}
+.cream2 img{
+    position: absolute;
+    width: 580px;
+    height: 415px;
+    left: 829px;
+    top: 2585px;
+    border-radius: 10px;
+    transition: 1s;
+}
+.cream2 img:hover{
+    transform:scale(0.8)
+}
+.cream2 a{
+    position: absolute;
+    top: 2861px;
+    left: 580px;
+    font-family: 'Hind Madurai', sans-serif;
+    background:#D23166;
+    border-radius: 5px;
+    padding: 13px 50px ;
+    transition: 0.8s;
+
+}
+.cream2 a:hover{
+    background:white;
+    color: black;
+    box-shadow: inset 0 0 0 1.5px #3a7999;
+}
+.cream3 h1{
+    width:231px ;
+    height: 36px;
+    font-family: 'Hind Madurai', sans-serif;
+    font-size: 26px;
+    line-height: 36px;
+
+}
+.corn{
+    width: 454px;
+    height: 67px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    opacity: 0.7;
+
+}
+.weet {
+    width: 454px;
+    position: relative;
+    top: 2711px;
+    left: 916px;
+}
+.money2{
+    margin-top: 28px;
+    font-family: 'Hind Madurai', sans-serif;
+    font-size: 26px;
+    line-height: 36px;
+}
+.weet span{
+    font-size: 20px;
+    line-height: 28px;
+    text-decoration-line: line-through;
+    opacity: 0.7;
+}
+.weet a{
+    position: relative;
+    top: 25px;
+    font-family: 'Hind Madurai', sans-serif;
+    background:#D23166;
+    border-radius: 5px;
+    padding: 13px 50px ;
+    transition: 0.8s;
+}
+.weet a:hover{
+    background:white;
+    color: black;
+    box-shadow: inset 0 0 0 1.5px #3a7999;
+}
+
+.cream3 img{
+    position: relative;
+    width: 580px;
+    height: 415px;
+    left: 249px;
+    top: 3000px;
+    border-radius: 10px;
+    transition: 1s;
+}
+.cream3 img:hover{
+    transform: scale(0.8);
+}
+.Adele{
+
+    display: flex;
+    width: 300px;
+    position: absolute;
+    top: 3655px;
+    left:254px ;
+
+}
+
+.Adele img{
+    width: 59px;
+    height: 58px;
+
+
+}
+.text2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left:21px ;
+}
+.text2 h3{
+    width: 179px;
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+}
+.text2 h4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    font-weight: 500;
+    opacity: 0.9;
+    margin-top: 5PX;
+}
+.text3 p{
+    position: relative;
+    top: 110px;
+    right: 260px;
+    width: 350px;
+    height: 70px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    opacity: 0.7;
+
+}
+.thanks::before{
+    content: "\201c";
+    color:#F6762c ;
+    font-size: 40px;
+    left: 0;
+}
+.thanks::after{
+    content: "\201c";
+    color: #F6762c;
+    font-size: 40px;
+    position: relative;
+    left: 10px;
+    top: 23px;
+}
+.elli{
+    width: 57.81px;
+    height: 57.81px;
+    border-radius: 50%;
+    border: 1px #d64374 solid;
+
+}
+.elli2{
+    margin-left: 20px;
+    width: 35px;
+    height: 35px;
+}
+.man{
+    margin-right: 20px;
+    width: 35px;
+    height: 35px;
+}
+.slider::before{
+    content: "<";
+    font-size: 25px;
+    color: #D23166;
+    position: relative;
+    right:27px ;
+
+}
+.slider::after{
+    content: ">";
+    font-size: 25px;
+    position: relative;
+    left: 27px;
+    color: #d64374;
+}
+.slider{
+    position: absolute;
+    top: 3890px;
+    left:280px;
+}
+.scr{
+    position: absolute;
+    left: 821px;
+    top: 3562px;
+    width: 564px;
+    height: 442px;
+    transition: 1s;
+}
+.scr:hover{
+    transform: scale(0.8);
+}
+
+.select{
+    position: absolute;
+    top: 4406px;
+    left:699px ;
+    display: flex;
+}
+.select img{
+    width:11px ;
+    height: 16.5px;
+    margin-right: 10px;
+    margin-top: 4px;
+}
+.select a{
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    line-height: 26px;
+    color: black;
+
+}
+.select2{
+    position: absolute;
+    top: 4451px;
+    left:699px ;
+    display: flex;
+}
+.select2 img{
+    width:11px ;
+    height: 16.5px;
+    margin-right: 10px;
+    margin-top: 4px;
+}
+.select2 a{
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    line-height: 26px;
+    color: black;
+}
+.select3{
+    position: absolute;
+    top: 4498px;
+    left:699px ;
+    display: flex;
+}
+.select3 img{
+    width:11px ;
+    height: 16.5px;
+    margin-right: 10px;
+    margin-top: 4px;
+}
+.select3 a{
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    line-height: 26px;
+    color: black;
+}
+.simple{
+    position: absolute;
+    top: 4243px;
+    left:697px ;
+}
+.simple h1{
+    width: 721px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 44.2px;
+    line-height: 52px;
+
+}
+.simple p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 21px;
+    letter-spacing: 0.01em;
+    opacity: 0.7;
+}
+.mask{
+    width: 305px;
+    height: 627px;
+    position: absolute;
+    top: 4212px;
+    left: 220px;
+    transition: 0.8s;
+}
+.mask:hover{
+    transform: scale(0.8);
+}
+.logo{
+    display: flex;
+    width: 200px;
+    height: 77px;
+    margin-top: 200px;
+}
+.apple{
+    position: relative;
+    bottom: 5px;
+}
+
+.d1 input{
+    width: 637px;
+    height: 74px;
+}
+.input::placeholder{
+    display: block;
+    padding-left: 25px;
+    padding-bottom: 20px;
+    font-size:14px ;
+}
+.button{
+    width:134px ;
+    height: 74px;
+    background: #D23166;
+    border-radius: 5px;
+    cursor: pointer;
+    position: relative;
+    right: 40px;
+    border: none;
+}
+.button:focus{
+    background-color:coral;
+}
+.d1{
+    display: flex;
+}
+.send{
+    color: #fafafa;
+    font-size: 20px;
+    line-height: 23px;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+input[type="text"]{
+    font-size: 25px;
+    padding-left: 15px;
+
+}
+.have h1{
+    width: 522px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 44px;
+    font-weight: 500;
+    line-height: 52px;
+    text-align: center;
+    margin-left: 50px;
+    margin-bottom: 28px;
+}
+.have{
+    text-align: center;
+    margin-top: 400px;
+}
+main{
+    background: #F2CEDA;
+    height: 900px;
+
+}
+footer{
+    position: absolute;
+    top: 5357px;
+    width:1900px;
+    height: 381px;
+    background: #0A0808;
+}
+input{
+    background-color: rgb(196, 191, 191);
+    border:none;
+}
+
+.look p{
+    color: white;
+    width:220px;
+    height: 47px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    line-height: 17px;
+    letter-spacing: 0.01em;
+    opacity: 0.7;
+}
+.look{
+    margin-left: 245px;
+    margin-top: 70px;
+}
+.about h1{
+    font-family: 'Roboto', sans-serif;
+    width: 46px;
+    font-size: 12px;
+    line-height:14px;
+    font-weight: 500;
+    color: white;
+    margin-left: 2.8px;
+
+}
+.about a{
+    margin: 5px;
+
+}
+.about{
+    margin-left: 245px;
+    margin-top:25px;
+}
+.about img{
+    margin-top: 8px;
+}
+.nav2{
+    display: flex;
+    flex-direction: column;
+}
+.nav2 a{
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    color:white;
+    opacity: 0.7;
+    margin: 5px;
+    margin-left: 499px;
+    position: relative;
+    bottom: 140px;
+}
+.nav3{
+    position: relative;
+    bottom: 280px;
+    left:697px ;
+    display: flex;
+    flex-direction: column;
+}
+.nav3 a{
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    color:white;
+    opacity: 0.7;
+    margin: 5px;
+
+}
+.visa{
+    position: absolute;
+    top: 5493px;
+    left: 956px;
+
+}
+.input2{
+    width: 388px;
+    height: 55px;
+    background: #0A0808;
+    border: 1px solid #d64374;
+}
+
+.email{
+    display: flex;
+}
+.subscribe{
+    width: 125px;
+    height: 55px;
+    background: #D23166;
+    border-radius: 5px;
+    border: none;
+    position: relative;
+    right: 40px;
+    cursor: pointer;
+}
+.subscribe:focus{
+    background-color: coral;
+}
+.input2::placeholder{
+    display: inline-block;
+    padding-left: 32px;
+}
+.input2[type="email"]{
+    color:white;
+    padding-left: 20px;
+}
+
+.visa h1{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    margin-bottom: 10px;
+}
+.card img{
+    margin: 5px;
+    margin-top: 15px;
+}
+.creem:hover{
+    transform: scale(0.8);
+}
+
+.sugar:hover{
+    transform:scale(0.8);
+}
+.header{
+    background: #F2CEDA;
+}
+.nav2 a:hover{
+    opacity: 6;
+
+}
+.input:focus{
+    outline: 0;
+
+}
+.input2:focus{
+    outline: 0;
+}
+body{
+    overflow-x: hidden;
+}
